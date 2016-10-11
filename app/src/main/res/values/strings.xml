@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AGLights</string>
+    <string name="ok">OK</string>
+    <string name="abort">Abbrechen</string>
+    <string name="colon">:</string>
+    <string name="main_button_disconnect">Trennen</string>
+    <string name="main_button_connect">Verbinden</string>
+    <string name="main_end_first">Passe&#160;</string>
+    <string name="main_end_second">&#160;von&#160;</string>
+    <string name="main_button_del_end">Passe entfernen</string>
+    <string name="main_button_add_end">Passe hinzufügen</string>
+    <string name="main_button_next">Weiter</string>
+    <string name="main_button_show_time">Uhrzeit anzeigen</string>
+    <string name="main_button_set_timer">Timer stellen…</string>
+    <string name="main_button_new_round">Neue Runde…</string>
+    <string name="main_button_send_runtext">Senden</string>
+    <string name="main_button_runtext">Text anzeigen…</string>
+    <string name="connect_title">Verbinden…</string>
+    <string name="connect_description">Wähle aus, mit wie vielen Displays du dich verbinden möchtest:</string>
+    <string name="new_round_title">Neue Runde starten</string>
+    <string name="new_round_wa_indoor">WA indoor</string>
+    <string name="new_round_wa_outdoor">WA outdoor</string>
+    <string name="new_round_liga">Liga</string>
+    <string name="new_round_custom">Benutzerdefiniert</string>
+    <string name="new_round_amount">Anzahl der Passen</string>
+    <string name="new_round_preparation">Vorbereitungszeit</string>
+    <string name="new_round_duration">Dauer</string>
+    <string name="new_round_groups">A/B-C/D</string>
+    <string name="timer_title">Timer stellen…</string>
+    <string name="runtext_edittext_hint">Text eingeben…</string>
+    <string name="runtext_title">Lauftext eingeben</string>
+</resources>
